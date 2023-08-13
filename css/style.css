@@ -138,6 +138,28 @@
     }
 
 
+    /*------------------- contact */
+
+    .image_contact {
+        height: 500px;
+        width: 100%;
+    }
+    .parent {
+        height: auto;
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    .child {
+        text-align: center;
+    }
+    
+    .contact_field {
+        margin-left: auto;
+    }
+
 }
 
 
@@ -215,7 +237,7 @@
         margin: 0px;
         width: 28%;
         height: 38%;
-                background-image: linear-gradient(65deg, purple, pink, red, yellow, orange);
+        background-image: linear-gradient(65deg, purple, pink, red, yellow, orange);
         transition: all ease 2s;
         border: 1px dotted orangered;
         opacity: 0;
@@ -226,7 +248,7 @@
         margin: 0px;
         width: 28%;
         /* height: 38%; */
-                opacity: 1;
+        opacity: 1;
         background-size: cover;
     }
 
@@ -276,6 +298,27 @@
 
     .history3 {
         font-size: 16px;
+    }
+
+    /* -------------------contact------------------- */
+    .image_contact {
+        height: 500px;
+        width: 100%;
+    }
+    .parent {
+        height: auto;
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    .child {
+        text-align: center;
+    }
+    
+    .contact_field {
+        margin-left: auto;
     }
 }
 
@@ -416,6 +459,27 @@
     .history3 {
         font-size: 15px;
         /* padding-bottom: 2px; */
+    }
+
+
+    /* -------------contact---------------------------- */
+    .image_contact {
+        height: 500px;
+        width: 100%;
+    }
+    .parent {
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    .child {
+        text-align: center;
+    }
+    
+    .contact_field {
+        margin-left: auto;
     }
 }
 
@@ -561,6 +625,30 @@
     .history3 {
         font-size: 16px;
     }
+
+
+
+    /* -----------------contact------------- */
+    .image_contact {
+        height: 500px;
+        width: 100%;
+    }
+    .parent {
+        /* height: auto; */
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    .child {
+        text-align: center;
+    }
+    
+    .contact_field {
+        margin-left: auto;
+    }
+
 }
 
 
@@ -702,5 +790,28 @@
 
     .history3 {
         font-size: 16px;
+    }
+
+
+    /* ------------contact------------ */
+    
+    .image_contact {
+        height: 500px;
+        width: 100%;
+    }
+    .parent {
+        /* height: auto; */
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    .child {
+        text-align: center;
+    }
+    
+    .contact_field {
+        margin-left: auto;
     }
 }
